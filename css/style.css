@@ -13,6 +13,8 @@ body {
     font-size: 14pt;
     color: #f0c987;
     flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+
 }
 
 button {
@@ -37,7 +39,7 @@ border-radius: 5px;
 width: 60px;
 height: 60px;
 font-size: 30pt;
-
+font-weight: 1000;
 }
 
 #contador {
@@ -57,7 +59,7 @@ font-size: 30pt;
     height: 60px;
 text-transform: uppercase;
 letter-spacing: 2px;
-font-weight: bold;
+font-weight: 1000;
 
 
 }
